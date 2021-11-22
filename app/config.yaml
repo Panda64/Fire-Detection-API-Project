@@ -1,5 +1,5 @@
 resize_shape: [256, 256]
 targets: ['Fire_Images']
 model_file_paths: ["fire_cnn_classifier_layers.json", "fire_cnn_classifier_params.h5"]
-base_model_url: "https://github.com/Panda64/Fire-Detection-API-Project/archive/refs/tags/v1.0.0.zip"
-model_sha256: "0d03d897840ebc70b51045d0b16f9d4e88be8f96"
+base_model_url: "https://github.com/Panda64/Fire-Detection-API-Project/archive/refs/tags/v2.0.0.zip"
+model_sha256: "7010fd8c90ad0f041c38ac5645f266f7fc38286c"
